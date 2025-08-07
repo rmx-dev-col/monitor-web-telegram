@@ -1,4 +1,4 @@
-# util/checker.py
+# utils/checker.py
 import requests
 from utils.logger import log
 
